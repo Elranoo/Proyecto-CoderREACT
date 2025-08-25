@@ -1,9 +1,15 @@
-
+import NavBar from "./componentes/NavBar/NavBar"
+import ItemListContainer from "./componentes/ItemListContainer/ItemListContainer";
 
 const App = () => {
   return (
-    <div>App</div>
-  )
+    <>
+      <NavBar />
+      <ItemListContainer mensaje="¡Bienvenido a RanoCorp!" />
+    </>
+  );
 }
+
+
 
 export default App

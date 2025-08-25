@@ -1,0 +1,15 @@
+.cart-widget {
+    display: flex;
+    align-items: center;
+}
+
+.cart-widget-img {
+    width: 32px;
+    height: 32px;
+    object-fit: contain;
+}
+
+.cart-widget-count {
+    margin-left: 8px;
+    font-weight: bold;
+}
