@@ -1,0 +1,22 @@
+.itemlist-mensaje {
+    margin: 32px auto;
+    padding: 32px 48px;
+    background: linear-gradient(90deg, #dfe6e9 60%, #b2bec3 100%);
+    color: #2d3436;
+    font-size: 1.7rem;
+    font-weight: bold;
+    border-radius: 16px;
+    text-align: center;
+    box-shadow: 0 4px 16px rgba(0,0,0,0.10);
+    max-width: 520px;
+    border: 2px solid #00b894;
+    position: relative;
+}
+
+.contenedorProductos {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 24px;
+    margin-bottom: 40px;
+}

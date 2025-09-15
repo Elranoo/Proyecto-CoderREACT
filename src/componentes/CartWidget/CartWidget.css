@@ -7,6 +7,9 @@
     width: 32px;
     height: 32px;
     object-fit: contain;
+    background: #dfe6e9;
+    border-radius: 50%;
+    padding: 4px;
 }
 
 .cart-widget-count {
